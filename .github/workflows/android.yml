@@ -2,6 +2,7 @@
 name: Build Homio Android APK
 
 on:
+  push:
   workflow_dispatch:
 
 jobs:
